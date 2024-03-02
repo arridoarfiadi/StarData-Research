@@ -4,12 +4,13 @@ This is a repository for Arrido and Christine's research around Data Science, Ma
 
 ## Studying Machine Learning
 Here we will go over basic machine learning model, understanding them, and doing a simple project around each one of them. List of topics to expect:
-* Linear Regression
-* Logistic Regression
-* Multi-linear Regression
+* Linear Regression ✅
+* Logistic Regression 
+* Multi-linear Regression ✅
 * Polymonial Regression
-* K-Means Clustering
-* K-Nearest Neighbors (KNN) Clustering
+* K-Means Clustering ✅
+* K-Nearest Neighbors (KNN) Clustering ✅
+* DBSCAN ✅
 * Decision Tree Classification
 * Random Forest Classification
 * XGBoost
