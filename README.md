@@ -5,7 +5,7 @@ This is a repository for Arrido and Christine's research around Data Science, Ma
 ## Studying Machine Learning
 Here we will go over basic machine learning model, understanding them, and doing a simple project around each one of them. List of topics to expect:
 * Linear Regression ✅
-* Logistic Regression 
+* Logistic Regression ✅
 * Multi-linear Regression ✅
 * Polymonial Regression
 * K-Means Clustering ✅
