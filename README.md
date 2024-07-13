@@ -7,13 +7,13 @@ Here we will go over basic machine learning model, understanding them, and doing
 * Linear Regression ✅
 * Logistic Regression ✅
 * Multi-linear Regression ✅
-* Polymonial Regression
+* Polymonial Regression ✅ (pending upload)
 * K-Means Clustering ✅
 * K-Nearest Neighbors (KNN) Clustering ✅
 * DBSCAN ✅
-* Decision Tree Classification
-* Random Forest Classification
-* XGBoost
+* Decision Tree Classification ✅ (pending upload)
+* Random Forest Classification ✅ (pending upload)
+* XGBoost ✅ (pending upload)
 * Principal Component Analysis (PCA)
 * Support Vector Machine
 * Reinforcement Learning
